@@ -75,6 +75,11 @@
             <artifactId>spring-aop</artifactId>
             <version>2.5.6</version>
         </dependency>
+        <dependency>
+            <groupId>shahin</groupId>
+            <artifactId>new</artifactId>
+            <version>2.5</version>
+        </dependency>
 
         <!-- dependency with classifier -->
         <dependency>
