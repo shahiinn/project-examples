@@ -8,6 +8,9 @@
     <owners>JFrog</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>JFrog custom logger</description>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="9.0" />
+    </dependencies>
     <copyright>Copyright 2013</copyright>
   </metadata>
 </package>
